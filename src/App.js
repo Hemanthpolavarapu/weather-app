@@ -3,4 +3,4 @@ import './App.css'
 
 const App = () => <WeatherCard/>
 
-export default App
+export default App;
